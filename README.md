@@ -2,4 +2,4 @@ Test
 ====
 
 My project
-I love:pizza:.
+I love:pizza:, :coffee: .
